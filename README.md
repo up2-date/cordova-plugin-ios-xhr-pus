@@ -1,33 +1,26 @@
-# cordova-plugin-ios-xhr
+# cordova-plugin-ios-xhr-pus
 ## cordova-ios 6+ File XHR Plugin
 
-### ARCHIVED
-This plugin is not needed anymore
+### Notice
+> This is a Fork from Plugin:
+> 
+> [cordova-plugin-ios-xhr](https://github.com/globules-io/cordova-plugin-ios-xhr)
 
-### About
+### About (Original)
 > Originally, this plugin was a merge of two other plugins, and made compatible for cordova-ios 6+.
-
+>
 > [cordova-plugin-wkwebview-file-xhr](https://github.com/oracle/cordova-plugin-wkwebview-file-xhr)
-
+>
 > [cordova-plugin-wkwebviewxhrfix](https://github.com/TheMattRay/cordova-plugin-wkwebviewxhrfix)
-
+>
 > It's been since remodified and the code from [TheMattRay](https://github.com/TheMattRay) has now been entirely removed. It is kept here as original reference. 
+>
 > This could be turned into a PR to [cordova-plugin-wkwebview-file-xhr](https://github.com/oracle/cordova-plugin-wkwebview-file-xhr), if time allows it, or if anybody wants to go at it! All credits go to Oracle. 
 
 ### Install
-
-> Install latest release
-
-     cordova plugin add @globules-io/cordova-plugin-ios-xhr
-     
-> Or install from github master
-
-     cordova plugin add https://github.com/globules-io/cordova-plugin-ios-xhr
-     
+     cordova plugin add https://up2-date/cordova-plugin-file-opener2-pus
 ### Uninstall
-
-     cordova plugin rm @globules-io/cordova-plugin-ios-xhr
-     
+     cordova plugin rm cordova-plugin-ios-xhr-pus
 ### Preferences
 
      <preference name="NativeXHRLogging" value="full|none" />
