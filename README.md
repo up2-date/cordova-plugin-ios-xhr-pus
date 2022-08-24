@@ -18,7 +18,7 @@
 > This could be turned into a PR to [cordova-plugin-wkwebview-file-xhr](https://github.com/oracle/cordova-plugin-wkwebview-file-xhr), if time allows it, or if anybody wants to go at it! All credits go to Oracle. 
 
 ### Install
-     cordova plugin add https://up2-date/cordova-plugin-file-opener2-pus
+     cordova plugin add https://up2-date/cordova-plugin-ios-xhr-pus
 ### Uninstall
      cordova plugin rm cordova-plugin-ios-xhr-pus
 ### Preferences
